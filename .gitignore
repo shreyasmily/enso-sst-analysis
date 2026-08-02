@@ -1,0 +1,17 @@
+# Raw and intermediate data (too large for GitHub — see README for how to obtain)
+data/
+# Stray output dir created if exploration/clusterMaps.py is run from the project root
+# (the real results live in figures/enso_events/, which IS tracked)
+/enso_events/
+
+# Common data byproducts if scripts are re-run from the project root
+*.nc
+*.pkl
+*.npy
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
