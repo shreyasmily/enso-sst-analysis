@@ -2,7 +2,7 @@
 
 An exploratory analysis of El Niño–Southern Oscillation (ENSO) variability in the tropical Pacific,
 using Empirical Orthogonal Function (EOF) analysis on satellite-derived sea surface temperature (SST)
-anomalies. Done as preparation for graduate-level research.
+anomalies.
 
 The full write-up, with methodology and figures, is in [`docs/ENSO_SST_Analysis.pdf`](docs/ENSO_SST_Analysis.pdf).
 
